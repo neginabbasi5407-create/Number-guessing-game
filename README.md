@@ -19,4 +19,4 @@ After each guess, feedback is shown to help the user find the correct number.
 - JavaScript
 
 ##  Live Demo
-👉 (Add GitHub Pages link here)
+https://neginabbasi5407-create.github.io/Number-guessing-game/
